@@ -11,7 +11,7 @@ export default ()=>{
         <TitlePage>Por que virar vegano?</TitlePage>
         <div>
             <Imagem > 
-            <img src={img} alt="IMAGEM DE UMA VACA DE LEGUMES" height="350px" width="450px"/>            <Paragrafro>Apesar do que as pessoas possam acreditar, a criação de animais está longe de ser humana, mesmo em circunstâncias ecológicas ou de “alto bem-estar”. Quando as pessoas ficam sabendo do sofrimento que os animais passam durante o processo de criação, não é de se estranhar que muitos não se atrevam a continuar comendo animais. Nossa seção do blog sobre animais abrange desde os horrores da pecuária leiteira até os problemas da pesca moderna.
+            <img src={img} alt="IMAGEM DE UMA VACA DE LEGUMES" height="350px" width="450px"/>            <Paragrafro>Apesar do que as pessoas possam acreditar, a criação de animais está longe de ser humana, mesmo em circunstâncias ecológicas ou de “alto bem-estar”. Quando as pessoas ficam sabendo do sofrimento que os animais passam durante o processo de criação, não é de se estranhar que muitos não se atrevam a continuar comendo animais. Estudando um pouco mais sobre artigos recentes, vemos desde os horrores da pecuária leiteira, até os problemas da pesca moderna.
             </Paragrafro>
             </Imagem>
         </div>

@@ -52,4 +52,8 @@ export const Imga = styled.div`
     display: flex;
     justify-content: center;
 `
-
+export const Texto = styled.h2`
+    font-size: 32px;
+    text-align: center;
+    font-family: Helvetica;
+`
